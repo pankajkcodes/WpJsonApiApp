@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Wp json Api App</string>
+    <string name="api_url">https://www.wpbeginner.com/wp-json/wp/v2/posts?per_page=10</string>
+</resources>
